@@ -1,12 +1,12 @@
 .title-bg {
   padding: 200px;
-  background: url("newtitleklein.jpg");
+  background: url("newtitle.jpg");
   background-repeat: no-repeat;
   background-size: Auto;
 }
 
 .title-h1 {
-  color: #00FF00;
+  color: #800080;
   font-family: 'Lobster', cursive;
   font-size: 140px;
 }
