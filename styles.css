@@ -2,8 +2,7 @@
   padding: 200px;
   background: url("newtitle.jpg");
   background-repeat: no-repeat;
-  background-size: auto;
-  <IMG SRC="formaat.jpg" ALT="Originele afbeelding" WIDTH="120" HEIGHT="140" BORDER="1">
+  background-size: 300px 100px;
 }
 
 .title-h1 {
