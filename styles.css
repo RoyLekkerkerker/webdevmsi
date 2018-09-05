@@ -2,7 +2,7 @@
   padding: 200px;
   background: url("newtitle.jpg");
   background-repeat: no-repeat;
-  background-size: 3000px 1000px;
+  background-size: Auto;
 }
 
 .title-h1 {
