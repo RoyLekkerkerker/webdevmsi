@@ -26,6 +26,9 @@
   align-items: center;
   justify-content: center;
 }
+.BMC {
+  width: 100vw;
+}
 
 .BMC img {
   padding-top: 50px;
