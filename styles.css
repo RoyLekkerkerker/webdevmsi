@@ -26,14 +26,12 @@
   align-items: center;
   justify-content: center;
 }
-.BMC {
-  width: 100vw;
-}
 
 .BMC img {
   padding-top: 50px;
-  align-items: center;
-  justify-content: center;
   background-color: honeydew;
-  width: 80vw;
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  width:80%;
 }
