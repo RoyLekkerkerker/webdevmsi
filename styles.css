@@ -3,7 +3,8 @@
   background: url("newtitle.jpg");
   background-repeat: no-repeat;
   background-size: 100% 120%;
-}
+  height: 100vh;
+  }
 
 .title-h1 {
   color: #000080;
