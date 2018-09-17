@@ -27,9 +27,12 @@
   justify-content: center;
 }
 
-.BMC img {
-  padding-top: 50px;
+.bmc{
+  width: 100%;
   background-color: honeydew;
+}
+.img {
+  padding-top: 50px;
   display: block;
   margin-left:auto;
   margin-right:auto;
